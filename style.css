@@ -1,0 +1,18 @@
+    header{
+        margin: 50px 50px 50px 50px ;
+        background-color: green;
+        width: 150px;
+        height: 150px;
+        border:red 6px dashed;
+    }
+
+    h1{
+        background-color: blueviolet;
+        color: white;
+    }
+
+    h1 #hola{
+        background-color: blue;
+        color: orange;
+  
+    }
