@@ -1,0 +1,12 @@
+header {
+margin: 50px 50px 50px 50px ;
+background-color: aqua;
+width: 150px ;
+height: 150px ;
+border: red 8px dashed;
+}
+
+h1 {
+    background-color: blueviolet;
+    color: greenyellow
+}
