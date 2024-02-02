@@ -1,0 +1,15 @@
+p,h1{
+    background-color: blueviolet;
+    color: beige;
+}
+header{
+    background-color: chartreuse;
+    color: chocolate;
+    border-color: coral;
+    border: 3px;
+    border: dashed;
+    margin: 80px 80px 80px 80px;
+    height: 150px;
+    width: 150px;
+
+}
